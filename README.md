@@ -5,19 +5,6 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/håvard-s-9b5813106//)
 ---
 
-#### Personal Github Organizations
-
-[<img src="https://avatars.githubusercontent.com/u/95472145?s=200&v=4" width="32" />  Github - Education](https://github.com/mariestigen-edu)
-*Projects created for educucational purposes. It contains exams, courses, workshops*
-
-[<img src="https://avatars.githubusercontent.com/u/95485869?s=200&v=4" width="32"/>  Github - Personal Projects](https://github.com/mariestigen-personal-projects)
-*Personal projects that is not currently under development, to maintain a cleaner main profile*
-
-[<img src="https://avatars.githubusercontent.com/u/95485899?s=200&v=4" width="32"/>  Github - Challenges](https://github.com/mariestigen-challenges)
-*Projects that is based on challanges such as Advent of code or Hacktober*
-
----
-
 #### Languages & Tools
 
 <div>
