@@ -1,6 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=havask)
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/håvard-s-9b5813106//](https://www.linkedin.com/in/h%C3%A5vard-skj%C3%A6rstein-9b5813106/))
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/h%C3%A5vard-skj%C3%A6rstein-9b5813106/)
 ---
 
 
