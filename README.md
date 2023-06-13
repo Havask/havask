@@ -31,11 +31,6 @@
 ---
 
 
-#### Previous projects: 
-
-https://cryptohearts.info/
-
-https://startup-skjerstein.no/
 
 
 <!---
